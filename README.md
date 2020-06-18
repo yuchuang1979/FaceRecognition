@@ -1,4 +1,4 @@
-# faceRecognition
+# Face Recognition
 This is a face recognition demo using VGG_FACE.caffemodel. The sample code can be run on Windows.
 
 Guideline to install packages used for face recognition pipeline
