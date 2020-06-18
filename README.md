@@ -1,5 +1,5 @@
 # Face Recognition
-This is a face recognition demo using VGG_FACE.caffemodel. The sample code can be run on Windows.
+This is a deep learning based face recognition demo using VGG_FACE.caffemodel. The sample code can be run on Windows.
 
 Guideline to install packages used for face recognition pipeline
 
